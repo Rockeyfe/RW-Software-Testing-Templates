@@ -1,2 +1,2 @@
-# HISPTanzania-Software-Testing-Templates
-Public templates for HISP Tanzania's Software Testing Guide
+# RW-Software-Testing-Templates
+Public templates for RW Software Testing Guide
